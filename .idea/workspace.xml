@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca902b87-748e-40b5-87f2-97ddd7de4a53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeWithDurgesh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeWithDurgesh/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca902b87-748e-40b5-87f2-97ddd7de4a53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728397149220</updated>
       <workItem from="1728397150297" duration="1105000" />
-      <workItem from="1728398390695" duration="901000" />
+      <workItem from="1728398390695" duration="1330000" />
     </task>
     <servers />
   </component>
