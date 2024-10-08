@@ -6,5 +6,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("this the first jenkins online repository");
         System.out.println("A new file is added");
+
+        Student student = new Student();
+        student.sayHello();
     }
 }
